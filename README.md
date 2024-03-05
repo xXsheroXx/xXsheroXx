@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXsheroXx
 - 👀 I’m interested in learning programmming
-- 🌱 I’m currently learning C langauge
+- 🌱 I’m currently learning Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shero010807@gmail.com
 
