@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXsheroXx
-- 👀 I’m interested in learning programmming
-- 🌱 I’m currently developing a ticket system
+- 👀 I’m interested in programming and machine learning
+- 🌱 I’m currently developing a medical chatbot that uses AI and RAG pipelines
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shero010807@gmail.com
 
