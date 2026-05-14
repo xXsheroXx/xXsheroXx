@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xXsheroXx
 - 👀 I’m interested in programming and machine learning
-- 🌱 I’m currently developing a live camera recognition app that uses AI vision models to recognize objects
+- 🌱 I’m currently developing a Developer Job & Skill Tracker Platform
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shero010807@gmail.com
 
